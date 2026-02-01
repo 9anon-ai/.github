@@ -3,6 +3,8 @@
 
 Welcome to **9anonAI**, a next-generation legal chatbot engineered to deliver **deep, accurate, and explainable legal answers** using **Retrieval-Augmented Generation (RAG)**.
 
+[9anon AI](https://9anonai.com)
+
 This isn’t a generic chatbot.  
 This is legal intelligence — structured, sourced, and serious.
 
@@ -82,7 +84,7 @@ This allows the chatbot to:
 
 ## 🌐 Organization
 
-**GitHub Organization:** `9anonai.com`  
+**GitHub Organization:** [9anon AI](https://9anonai.com)  
 **Project Name:** 9anonAI  
 
 Built with precision. Designed with intent.
